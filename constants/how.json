@@ -1,0 +1,32 @@
+[
+    {
+      "step": 1,
+      "title": "Sign Up & Log In",
+      "description": "Create an account and log in to access your universal shopping cart."
+    },
+    {
+      "step": 2,
+      "title": "Add Products from Any Site",
+      "description": "Use the OneCart extension or manual input to add products from different online stores."
+    },
+    {
+      "step": 3,
+      "title": "Organize Your Cart",
+      "description": "View, manage, and categorize your saved products in one dashboard."
+    },
+    {
+      "step": 4,
+      "title": "Compare Prices & Set Alerts",
+      "description": "Check price comparisons across various stores and get notified about price drops."
+    },
+    {
+      "step": 5,
+      "title": "Seamless Checkout",
+      "description": "Proceed to checkout directly on the respective store’s website without losing track of your items."
+    },
+    {
+      "step": 6,
+      "title": "Access Your Cart Anywhere",
+      "description": "Sync your cart across all your devices for a seamless shopping experience."
+    }
+  ]

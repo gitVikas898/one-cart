@@ -1,0 +1,33 @@
+
+ [
+      {
+        "question": "What is OneCart?",
+        "answer": "OneCart is a universal shopping cart that lets you sync items from multiple websites into a single platform, making online shopping more convenient."
+      },
+      {
+        "question": "How does OneCart work?",
+        "answer": "Simply add products from different stores to your OneCart, compare prices, set alerts, and complete your purchase seamlessly."
+      },
+      {
+        "question": "Is OneCart free to use?",
+        "answer": "Yes! OneCart is free to use for basic features. We may introduce premium features in the future."
+      },
+      {
+        "question": "Can I checkout directly from OneCart?",
+        "answer": "OneCart helps you manage your cart in one place, but checkout is still completed on the respective stores’ websites."
+      },
+      {
+        "question": "Do I need to create an account?",
+        "answer": "Creating an account allows you to sync your cart across devices, track price changes, and receive personalized recommendations."
+      },
+      {
+        "question": "Is my shopping data safe?",
+        "answer": "Absolutely! We prioritize security and do not share or sell your data to third parties."
+      },
+      {
+        "question": "Which websites does OneCart support?",
+        "answer": "We support most major e-commerce platforms. If a site isn't supported, let us know, and we'll work on adding it!"
+      }
+]
+
+  
